@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
   "parameters": {
     "webSiteName": {
-      "value": "TugaITCalculator"
+      "value": "DevOpsDeepDiveCalculator"
     },
     "hostingPlanName": {
-      "value": "tugait-calculator-plan"
+      "value": "workshop-calculator-plan"
     }
   }
 }

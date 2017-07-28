@@ -25,3 +25,12 @@ C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\obj\Debug\netcoreap
 C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.AssemblyInfo.cs
 C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.dll
 C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.deps.json
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.json
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.dev.json
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.AssemblyInfo.cs
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\matteo.emili\Downloads\Workshop\Workshop\FeatureFlags\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.pdb

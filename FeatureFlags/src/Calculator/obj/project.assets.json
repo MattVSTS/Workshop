@@ -10833,10 +10833,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matteo.emili\\Source\\Repos\\Calculator\\src\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\matteo.emili\\Downloads\\Workshop\\Workshop\\FeatureFlags\\src\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\matteo.emili\\Source\\Repos\\Calculator\\src\\Calculator\\Calculator.csproj",
-      "outputPath": "C:\\Users\\matteo.emili\\Source\\Repos\\Calculator\\src\\Calculator\\obj\\",
+      "projectPath": "C:\\Users\\matteo.emili\\Downloads\\Workshop\\Workshop\\FeatureFlags\\src\\Calculator\\Calculator.csproj",
+      "outputPath": "C:\\Users\\matteo.emili\\Downloads\\Workshop\\Workshop\\FeatureFlags\\src\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -10893,7 +10893,7 @@
           },
           "Microsoft.ApplicationInsights.AspNetCore": {
             "target": "Package",
-            "version": "[2.1.0-beta2, )"
+            "version": "2.1.0-beta2"
           },
           "Microsoft.AspNetCore.StaticFiles": {
             "target": "Package",
