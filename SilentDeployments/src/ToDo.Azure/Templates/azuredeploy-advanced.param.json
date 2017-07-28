@@ -1,0 +1,42 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "siteName": {
+      "value": "WinOpsToDo"
+    },
+    "hostingPlanName": {
+      "value": "winops-todo-plan"
+    },
+    "siteLocation": {
+      "value": "North Europe"
+    },
+    "sku": {
+      "value": "Standard"
+    },
+    "stagingSlotName": {
+      "value": "Staging"
+    },
+    "testSlotName": {
+      "value": "Test"
+    },
+    "repoUrl": {
+      "value": "https://acmecorporation.visualstudio.com/DefaultCollection/_git/Pipeline"
+    },
+    "sqlServerName": {
+      "value": "winops-todo-sql"
+    },
+    "sqlServerLocation": {
+      "value": "North Europe"
+    },
+    "sqlServerAdminLogin": {
+      "value": "DemoAdmin"
+    },
+    "sqlServerAdminPassword": {
+      "value": "! D3m0P@ssw0rd"
+    },
+    "workerSize": {
+      "value": "0"
+    }
+  }
+}

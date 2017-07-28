@@ -1,0 +1,27 @@
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.deps.json
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.json
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.dev.json
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.dll
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.csprojResolveAssemblyReference.cache
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.AssemblyInfo.cs
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.pdb
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.dll
+c:\users\matteo.emili\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.deps.json
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.json
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.dev.json
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.AssemblyInfo.cs
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\matteo.emili\Source\Repos\TugaIT\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.deps.json
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.json
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.dev.json
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\bin\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.AssemblyInfo.cs
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\matteo.emili\Source\Repos\Calculator\src\Calculator\obj\Debug\netcoreapp1.1\Calculator.pdb
